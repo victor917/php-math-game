@@ -1,0 +1,27 @@
+body {
+    background-image: url('/images/marble.jpg');
+    background-size: cover;
+}
+
+form {
+    font-family:Tahoma, Geneva, serif;
+    border-radius: 25px;
+    background-image: url(https://wallpaperscraft.com/image/gray_white_spots_abstraction_faded_65625_1920x1080.jpg);
+    padding: 20px; 
+    width: 850px;
+    height: 260px; 
+    margin: auto;
+    margin-top: 15%;
+}
+
+.numbers {
+    font-size: 30pt;
+}
+
+.display {
+    font-size: 15pt;
+}
+
+.red {
+    color: red;
+}
